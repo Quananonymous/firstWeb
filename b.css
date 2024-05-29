@@ -1,0 +1,81 @@
+
+body{
+    margin:0%;
+    padding: 0%;
+    border: 0px;
+}
+.messenger{
+    position : fixed;
+    left:50px;
+    top : 70%;
+}
+.zalo{
+    position : fixed;
+    left:50px;
+    top : 80%;
+}
+.project{
+    color:red;
+    position : fixed;
+    top : 93%;
+    left:0%;
+    right:0%;
+}
+.menu1{
+    background-color:pink;
+    color:black;
+    text-align: center;
+}
+.menu2{
+    font-size:30px;
+    border: 0cap;
+    margin: auto;
+    padding: auto;
+    background-color: antiquewhite;
+    color: red;
+    position : fixed;
+    left:0px;
+    top : 0%;
+}
+
+.b1{
+    display:block;
+    width:60%;
+    float:left;
+    text-align: center;
+}
+.b2{
+    display:block;
+    width:60%;
+    float:right;
+    text-align: center;
+}
+.picture1{
+    width: 40%;
+    float:left;
+}
+.picture2{
+    width: 40%;
+    float:right;
+}
+
+.name{
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.vote
+{
+    color: orange;
+    font-size: 25px;
+}
+
+.mark{
+    color: violet;
+    font-size: 25px;
+}
+.location{
+    color: #25BE8E;
+    font-size: 25px;
+}
